@@ -121,5 +121,5 @@ python scripts/submission_helper.py
 
 ---
 
-*最后更新：2024 年*  
+*最后更新：2026 年*  
 *祝您的论文顺利发表！* 🎉
