@@ -1,0 +1,42 @@
+```
+# Dependencies
+__pycache__/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# MyPy cache
+.mypy_cache/
+
+# Pytest cache
+.pytest_cache/
+
+# Build artifacts
+*.pyc
+*.class
+*.o
+*.obj
+*.out
+dist/
+build/
+target/
+```
